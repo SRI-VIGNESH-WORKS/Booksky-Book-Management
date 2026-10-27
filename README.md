@@ -94,7 +94,7 @@ Through this project, I gained practical experience in:
 
 ## Author
 
-**SRI VIGNESH**
+**SRI**
 
 GitHub Profile: [SRI-VIGNESH-WORKS](https://github.com/SRI-VIGNESH-WORKS)
 
