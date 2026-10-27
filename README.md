@@ -108,6 +108,3 @@ Explore the source code and updates here:
 
 This project is intended for educational and personal learning purposes.
 
----
-
-If you find this project useful, consider starring the repository on GitHub.
